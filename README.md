@@ -1,1 +1,1 @@
-# MaMo-Furniture-Renting
+# MaMo-Furniture-E-Commerce
